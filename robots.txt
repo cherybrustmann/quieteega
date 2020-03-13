@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aihaeshau.rmartins.cloud/sitemap.xml
